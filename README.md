@@ -26,7 +26,7 @@ Features:
 
 Instalation and Starting:
 
-To use the tracker, copy all .py files to a folder of your choice. 
+To use the tracker, copy all files to a folder of your choice. 
 
 Now open the command promt :
 
@@ -34,7 +34,10 @@ Now open the command promt :
   type cmd
   press Enter
 
+
 Now navigate to the folder where you copied the files to and type "python main.py" to start the tracker.
+
+Alternativ, navigate to the folder via Windows Explorer, right klick somewhere in the folder and choose "Open in Terminal". Now also type "python main.py" to start the tracker.
 
 #
 
@@ -60,7 +63,7 @@ Important Notifications :
 
 Testing:
 
-This Tracker also comes with two testfiles written with pythons build in unittest module.
+This tracker also comes with two testfiles written with pythons build in unittest module.
 
 1. test_sqls.py
    This files holds the unittest for all SQL commands that interact with the database
