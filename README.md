@@ -1,6 +1,6 @@
 # Habit_Tracker_IU
 
-This repostery holds a habit tracker written in phyton version 3.13.1.
+This repostery holds a habit tracker written in phyton version 3.13.1 .
 
 A Python-based habit tracking application to help users efficiently track and manage daily and weekly habits. This project includes a user-friendly Tkinter interface and a robust SQLite database to store habit data, calculate streaks, and provide instant feedback on habit performance.
 
