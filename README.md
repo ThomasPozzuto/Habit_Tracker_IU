@@ -4,6 +4,11 @@ This repostery holds a habit tracker written in phyton version 3.13.1 .
 
 A Python-based habit tracking application to help users efficiently track and manage daily and weekly habits. This project includes a user-friendly Tkinter interface and a robust SQLite database to store habit data, calculate streaks, and provide instant feedback on habit performance.
 
+Used Python Modules :
+
+- Tkinter
+- SQlite
+- Unittest
 
 
 #
@@ -40,7 +45,7 @@ Usage:
    - Add new habits (daily or weekly).
    - Mark habits as completed.
    - View streaks and habit states
-   - Delete habits to track
+   - Delete habits to track.
 3. The Database will automatically save your data, so you can resume your progress anytime.
 
 Important Notifications :
