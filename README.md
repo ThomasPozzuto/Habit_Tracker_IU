@@ -17,11 +17,28 @@ Now open the command promt :
   press Enter
 
 Now navigate to the folder where you copied the files to and type "phyton main.py" to start the tracker.
+
 #
 
-Short Guide to the Tracker :
+Usage :
 
-When you run the Tracker for the first time, a database file named "habits.db" is created in the folder. This database is then filled with example data to show you what you can achieve with this tracker.
+1. Launch the application by running main.py
+2. Use the interface to:
+   - Add new habits (daily or weekly).
+   - Mark habits as completed.
+   - View streaks and habit states
+   - Delete habits to track
+3. The Database will automatically save your data, so you can resume your progress anytime.
+
+Screenshot :
+
+![image](https://github.com/user-attachments/assets/e342aa6e-2367-4c2b-ab75-360a820010e4)
+
+
+#
+
+
+
 
 
 
